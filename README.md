@@ -1,4 +1,4 @@
-# 🧩 Node.js & Sequelize API Tutorial
+# Node.js & Sequelize API
 
 A beginner-friendly tutorial created in collaboration with the Scientific Club at my university to teach students how to build RESTful APIs using Node.js, Express, and Sequelize.
 
